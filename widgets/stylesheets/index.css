@@ -1,0 +1,47 @@
+.clock-block {
+  background-color: orange;
+  font-family: 'Orbitron';
+  color: white;
+  font-size: 28px;
+  font-weight: 900;
+  padding: 10px;
+  margin: 20px;
+  border: 1.5px solid black;
+  box-sizing: border-box;
+}
+
+.headers {
+  margin: 10px;
+  font-weight: 700;
+  font-size: 28px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.outer {
+  padding-top: 20px;
+}
+
+.weather-block {
+  background-color: lightgreen;
+  font-family: 'Orbitron';
+  color: black;
+  font-size: 28px;
+  font-weight: 900;
+  padding: 10px;
+  margin: 20px;
+  border: 1.5px solid black;
+  box-sizing: border-box;
+}
+
+.tabs-block {
+  background-color: lightblue;
+  font-family: 'Orbitron';
+  color: black;
+  font-size: 28px;
+  font-weight: 900;
+  padding: 10px;
+  margin: 20px;
+  border: 1.5px solid black;
+  box-sizing: border-box;
+}
